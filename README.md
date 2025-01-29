@@ -1,1 +1,1 @@
-<h1>tEST PROJECT</h1>
+<h1>TEST PROJECT</h1>
